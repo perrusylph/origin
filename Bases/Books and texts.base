@@ -1,0 +1,96 @@
+filters:
+  or:
+    - file.inFolder("2- Source Material/Books")
+    - file.inFolder("2- Source Material/Articles and Pieces")
+properties:
+  note.author:
+    displayName: Author(s)
+views:
+  - type: table
+    name: All texts
+    order:
+      - file.name
+      - author
+      - Editor(s)
+      - Year
+      - Genre
+      - Read?
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: Year
+        direction: DESC
+      - property: Title
+        direction: ASC
+      - property: Genre
+        direction: ASC
+      - property: Editor(s)
+        direction: ASC
+      - property: formula.Genre
+        direction: ASC
+      - property: formula.Untitled
+        direction: ASC
+    columnSize:
+      file.name: 610
+      note.author: 168
+      note.Editor(s): 78
+      note.Genre: -37
+  - type: table
+    name: Math Books
+    filters:
+      and:
+        - file.inFolder("2- Source Material/Books/Math Books")
+    order:
+      - file.name
+      - author
+      - Editor(s)
+      - Year
+      - Genre
+    sort:
+      - property: Year
+        direction: ASC
+      - property: Editor(s)
+        direction: ASC
+    columnSize:
+      file.name: 465
+      note.author: 154
+      note.Editor(s): 201
+      note.Year: 91
+      note.Genre: 201
+  - type: table
+    name: To-Read
+    filters:
+      and:
+        - file.hasProperty("Read?")
+        - note["Read?"] != true
+        - '!file.inFolder("2- Source Material/Books/Math Books")'
+    order:
+      - file.name
+      - author
+      - Editor(s)
+      - Year
+      - Genre
+      - Read?
+  - type: table
+    name: Articles and Pieces
+    filters:
+      and:
+        - file.inFolder("2- Source Material/Articles and Pieces")
+    order:
+      - file.name
+      - author
+      - Genre
+      - Year
+      - Read?
+  - type: table
+    name: Other Books
+    filters:
+      and:
+        - file.inFolder("2- Source Material/Books/Other books")
+    order:
+      - file.name
+      - author
+      - Editor(s)
+      - Year
+      - Genre
+      - Read?

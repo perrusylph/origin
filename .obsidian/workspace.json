@@ -1,0 +1,270 @@
+{
+  "main": {
+    "id": "2a368591a1eec666",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2db46b6e835260a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d957c03df05da110",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6-Main Notes/Diagonalizable operators.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Diagonalizable operators"
+            }
+          },
+          {
+            "id": "a7db457a6fac956c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2- Source Material/Books/Other books/Against the Day.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Against the Day"
+            }
+          },
+          {
+            "id": "957295d26ee3a034",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Bases/Books and texts.base",
+                "viewName": "Other Books"
+              },
+              "icon": "lucide-table",
+              "title": "Books and texts"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "45067407dc4ddcba",
+    "type": "split",
+    "children": [
+      {
+        "id": "945f0c78108c22b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51d74992f1ae29be",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cd7cbb56e920ebf2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0db82c6d8fca351f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "aff6d1b6161b765d",
+    "type": "split",
+    "children": [
+      {
+        "id": "882ba49eb2a73bd3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98c30e7ec657fccb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2- Source Material/Articles and Pieces/The Fate of Composition.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for The Fate of Composition"
+            }
+          },
+          {
+            "id": "b899925ee37e4dd9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2- Source Material/Articles and Pieces/The Fate of Composition.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from The Fate of Composition"
+            }
+          },
+          {
+            "id": "c2d84f767c06fde2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e14b4c671ec7ff6e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Literature/Books/This Is How You Lose the Time War (2019).md",
+                "followCursor": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of This Is How You Lose the Time War (2019)"
+            }
+          },
+          {
+            "id": "05584a6776def450",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "957295d26ee3a034",
+  "lastOpenFiles": [
+    "6-Main Notes/Initialize a new repo.md",
+    "Bases/Books and texts.base",
+    "Untitled",
+    "6-Main Notes/Untitled.base",
+    "2- Source Material/Books/Other books/The New Life.md",
+    "2- Source Material/Books/Other books/Fresh, Green Life.md",
+    "2- Source Material/Books/Math Books/MCMC from Scratch꞉ A Practical Introduction to Markov Chain Monte Carlo.md",
+    "2- Source Material/Articles and Pieces/Herculine.md",
+    "2- Source Material/Books/Other books/Fellow Creatures꞉ Our Obligations to the Other Animals.md",
+    "2- Source Material/Authors/Mateiu I. Caragiale.md",
+    "2- Source Material/Books/Other books/Rakes of the Old Court.md",
+    "2- Source Material/Books/Other books/The Radetzky March.md",
+    "2- Source Material/Books/Other books/Memoirs of an Anti-Semite.md",
+    "2- Source Material/Books/Other books/Playing Indian.md",
+    "2- Source Material/Authors/José Eduardo Agualusa.md",
+    "2- Source Material/Books/Other books/A General Theory of Oblivion.md",
+    "2- Source Material/Books/Other books/Against the Day.md",
+    "2- Source Material/Books/Math Books/Introduction to Riemannian Manifolds.md",
+    "2- Source Material/Books/Math Books/Introduction to Smooth Manifolds.md",
+    "2- Source Material/Books/Math Books/Introduction to Topological Manifolds.md",
+    "6-Main Notes/Diagonalizable operators.md",
+    "6-Main Notes/Results of series.md",
+    "6-Main Notes/1.A.2 Abstract manifolds.md",
+    "6-Main Notes/1.A From Manifolds to Abstract Manifolds.md",
+    "6-Main Notes/1.A.1 Submanifolds of Euclidean Spaces.md",
+    "2- Source Material/Books/Other books/Russia's Path From Gorbachev to Putin꞉ The Demise of the Soviet System and the New Russia.md",
+    "2- Source Material/Literature Home.md",
+    "3- Tags/fiction.md",
+    "3- Tags/geometry.md",
+    "2- Source Material/Books/Other books",
+    "2- Source Material/Books/Math Books",
+    "Bases",
+    "7- Images and files/Pasted image 20250719171428.png",
+    "7- Images and files/Pasted image 20250719173700.png",
+    "7- Images and files/Pasted image 20250719171222.png",
+    "7- Images and files/Pasted image 20250719170959.png",
+    "7- Images and files/Pasted image 20250719123031.png",
+    "7- Images and files/Pasted image 20250719122618.png",
+    "7- Images and files/Pasted image 20250719122203.png",
+    "7- Images and files/El Teorema De Categoria De Bair - Wilman Brito.pdf",
+    "Females - Andrea Long Chu.epub",
+    "Untitled.canvas",
+    "7- Images and files/Pasted image 20250609115523.png",
+    "7- Images and files",
+    "6-Main Notes"
+  ]
+}
