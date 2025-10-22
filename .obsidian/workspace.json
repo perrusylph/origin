@@ -163,12 +163,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 365.5,
-    "collapsed": true
+    "width": 365.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,7 +181,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a7db457a6fac956c",
+  "active": "ef836789a79eb324",
   "lastOpenFiles": [
     "6-Main Notes/Diagonalizable operators.md",
     "2- Source Material/Books/Math Books/Distributions and Operators.md",
