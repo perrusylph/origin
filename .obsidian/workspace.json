@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2- Source Material/Books/Other books/Against the Day.md",
+                "file": "6-Main Notes/Chapter 1. Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Against the Day"
+              "title": "Chapter 1. Introduction"
             }
           }
         ]
@@ -181,15 +181,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bd5543bb62b5d68f",
+  "active": "a7db457a6fac956c",
   "lastOpenFiles": [
+    "2- Source Material/Books/Math Books/Introduction to Topological Manifolds.md",
+    "6-Main Notes/Chapter 1. Introduction.md",
+    "Bases/Books and texts.base",
+    "2- Source Material/Books/Other books/Against the Day.md",
     "6-Main Notes/Untitled.base",
     "6-Main Notes/Untitled 1.base",
-    "2- Source Material/Books/Other books/Against the Day.md",
     "6-Main Notes/Diagonalizable operators.md",
     "2- Source Material/Books/Math Books/Distributions and Operators.md",
     "2- Source Material/Mathematics Home.md",
-    "Bases/Books and texts.base",
     "6-Main Notes/Initialize a new repo.md",
     "Untitled",
     "2- Source Material/Books/Other books/The New Life.md",
@@ -206,7 +208,6 @@
     "2- Source Material/Books/Other books/A General Theory of Oblivion.md",
     "2- Source Material/Books/Math Books/Introduction to Riemannian Manifolds.md",
     "2- Source Material/Books/Math Books/Introduction to Smooth Manifolds.md",
-    "2- Source Material/Books/Math Books/Introduction to Topological Manifolds.md",
     "6-Main Notes/Results of series.md",
     "6-Main Notes/1.A.2 Abstract manifolds.md",
     "6-Main Notes/1.A From Manifolds to Abstract Manifolds.md",
@@ -226,7 +227,6 @@
     "Females - Andrea Long Chu.epub",
     "Untitled.canvas",
     "7- Images and files/Pasted image 20250609115523.png",
-    "7- Images and files",
-    "6-Main Notes"
+    "7- Images and files"
   ]
 }
