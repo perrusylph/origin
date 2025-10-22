@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d957c03df05da110",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6-Main Notes/Diagonalizable operators.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Diagonalizable operators"
-            }
-          },
-          {
             "id": "a7db457a6fac956c",
             "type": "leaf",
             "state": {
@@ -44,22 +20,8 @@
               "icon": "lucide-file",
               "title": "Against the Day"
             }
-          },
-          {
-            "id": "957295d26ee3a034",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Bases/Books and texts.base",
-                "viewName": "Other Books"
-              },
-              "icon": "lucide-table",
-              "title": "Books and texts"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,12 +74,12 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "aff6d1b6161b765d",
@@ -181,17 +143,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature/Books/This Is How You Lose the Time War (2019).md",
+                "file": "2- Source Material/Books/Other books/Against the Day.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of This Is How You Lose the Time War (2019)"
+              "title": "Outline of Against the Day"
             }
           },
           {
-            "id": "05584a6776def450",
+            "id": "ef836789a79eb324",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -201,11 +163,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 365.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,10 +182,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "957295d26ee3a034",
+  "active": "a7db457a6fac956c",
   "lastOpenFiles": [
-    "6-Main Notes/Initialize a new repo.md",
+    "6-Main Notes/Diagonalizable operators.md",
+    "2- Source Material/Books/Math Books/Distributions and Operators.md",
+    "2- Source Material/Mathematics Home.md",
     "Bases/Books and texts.base",
+    "6-Main Notes/Initialize a new repo.md",
     "Untitled",
     "6-Main Notes/Untitled.base",
     "2- Source Material/Books/Other books/The New Life.md",
@@ -241,15 +207,12 @@
     "2- Source Material/Books/Math Books/Introduction to Riemannian Manifolds.md",
     "2- Source Material/Books/Math Books/Introduction to Smooth Manifolds.md",
     "2- Source Material/Books/Math Books/Introduction to Topological Manifolds.md",
-    "6-Main Notes/Diagonalizable operators.md",
     "6-Main Notes/Results of series.md",
     "6-Main Notes/1.A.2 Abstract manifolds.md",
     "6-Main Notes/1.A From Manifolds to Abstract Manifolds.md",
     "6-Main Notes/1.A.1 Submanifolds of Euclidean Spaces.md",
     "2- Source Material/Books/Other books/Russia's Path From Gorbachev to Putin꞉ The Demise of the Soviet System and the New Russia.md",
     "2- Source Material/Literature Home.md",
-    "3- Tags/fiction.md",
-    "3- Tags/geometry.md",
     "2- Source Material/Books/Other books",
     "2- Source Material/Books/Math Books",
     "Bases",
