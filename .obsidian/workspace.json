@@ -35,19 +35,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "51d74992f1ae29be",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
             "id": "cd7cbb56e920ebf2",
             "type": "leaf",
             "state": {
@@ -73,8 +60,22 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "bd5543bb62b5d68f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -180,15 +181,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a7db457a6fac956c",
+  "active": "bd5543bb62b5d68f",
   "lastOpenFiles": [
+    "6-Main Notes/Untitled.base",
+    "6-Main Notes/Untitled 1.base",
+    "2- Source Material/Books/Other books/Against the Day.md",
     "6-Main Notes/Diagonalizable operators.md",
     "2- Source Material/Books/Math Books/Distributions and Operators.md",
     "2- Source Material/Mathematics Home.md",
     "Bases/Books and texts.base",
     "6-Main Notes/Initialize a new repo.md",
     "Untitled",
-    "6-Main Notes/Untitled.base",
     "2- Source Material/Books/Other books/The New Life.md",
     "2- Source Material/Books/Other books/Fresh, Green Life.md",
     "2- Source Material/Books/Math Books/MCMC from Scratch꞉ A Practical Introduction to Markov Chain Monte Carlo.md",
@@ -201,7 +204,6 @@
     "2- Source Material/Books/Other books/Playing Indian.md",
     "2- Source Material/Authors/José Eduardo Agualusa.md",
     "2- Source Material/Books/Other books/A General Theory of Oblivion.md",
-    "2- Source Material/Books/Other books/Against the Day.md",
     "2- Source Material/Books/Math Books/Introduction to Riemannian Manifolds.md",
     "2- Source Material/Books/Math Books/Introduction to Smooth Manifolds.md",
     "2- Source Material/Books/Math Books/Introduction to Topological Manifolds.md",
@@ -210,7 +212,6 @@
     "6-Main Notes/1.A From Manifolds to Abstract Manifolds.md",
     "6-Main Notes/1.A.1 Submanifolds of Euclidean Spaces.md",
     "2- Source Material/Books/Other books/Russia's Path From Gorbachev to Putin꞉ The Demise of the Soviet System and the New Russia.md",
-    "2- Source Material/Literature Home.md",
     "2- Source Material/Books/Other books",
     "2- Source Material/Books/Math Books",
     "Bases",
