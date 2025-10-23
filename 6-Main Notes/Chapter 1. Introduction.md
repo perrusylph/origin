@@ -1,2 +1,5 @@
 ## What are manifolds?
 
+Manifolds "look like" $\mathbb{R}^{n}$ locally. To make sense of the intuitive notion of “looks like,” we say that two subsets of Euclidean spaces $U \subseteq \mathbb{R}^{k}, V \subseteq \mathbb{R}^{n}$ are _topologically equivalent_ or _homeomorphic_ (from the Greek for “similar form”) if there exists a one-to-one correspondence $\phi: U \to V$ such that both $\phi$ and its inverse are continuous maps. (Such a correspondence is called a _homeomorphism_.) Let us say that a subset $M$ of some Euclidean space $\mathbb{R}^{k}$ is _locally Euclidean of dimension n_ if every point of $M$ has a neighborhood in $M$ that is topologically equivalent to a ball in $\mathbb{R}^{n}$.
+
+We can think of an _n-dimensional manifold_ (_n-manifold_ for short) as a subset of some Euclidean space $\mathbb{R}^{k}$ that is locally Euclidean of dimension _n_. 
