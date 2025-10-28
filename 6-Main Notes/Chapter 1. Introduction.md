@@ -26,3 +26,25 @@ We talk first about plane geometry (1-manifolds), then move on to solid geometry
 ### Algebra
 There is talk about Lie groups that are groups with a compatible manifold structure. The topological structure of a Lie group and its algebraic structure are deeply connected.
 
+### Complex Analysis
+The study of Riemann surfaces (2-dimensional manifolds that arise due to holomorphic functions).
+
+### Algebraic geometry
+The study of topological and geometric properties of algebraic varieties.
+
+### Computer graphics
+Splines, analysis of tangent plane, coordinate charts, parametrizations, triangulations, etc.
+
+### Classical mechanics
+Classical mechanics can be seen as the study of ordinary differential equations on manifolds (smooth dynamical systems).
+
+### General relativity
+Einstein said that the universe can be modelled by a 4-dimensional manifold that has a certain geometric structure called Lorentz metric. There is, under certain assumptions, a critical value for the average density of matter and energy in the universe: if we are above it we get big crunch, if we are below it we get an infinitely expandable universe. We do not yet know the situation.
+
+### String theory
+
+Particles are seen as 1-dimensional manifolds. The consist string theories if the cross-section of the curled-up dimensions is a Calabi-Yau manifold. 
+
+>Another role that manifolds play in string theory is in describing the history of an elementary particle. As a string moves through spacetime, it traces out a 2- dimensional manifold called its world sheet. Physical phenomena arise from the interactions among these different topological and geometric structures: the world sheet, the 6- or 7-dimensional cross-section, and the macroscopic 4-dimensional spacetime that we see.
+
+
