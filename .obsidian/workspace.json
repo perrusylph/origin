@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6-Main Notes/Chapter 1. Introduction.md",
+                "file": "6-Main Notes/Chapter 2. Topological Spaces.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Chapter 1. Introduction"
+              "title": "Chapter 2. Topological Spaces"
             }
           }
         ]
@@ -185,6 +195,7 @@
   "active": "a7db457a6fac956c",
   "lastOpenFiles": [
     "2- Source Material/Books/Math Books/Introduction to Topological Manifolds.md",
+    "6-Main Notes/Chapter 2. Topological Spaces.md",
     "6-Main Notes/Chapter 1. Introduction.md",
     "Bases/Books and texts.base",
     "2- Source Material/Books/Other books/Against the Day.md",
@@ -213,7 +224,6 @@
     "6-Main Notes/1.A.2 Abstract manifolds.md",
     "6-Main Notes/1.A From Manifolds to Abstract Manifolds.md",
     "6-Main Notes/1.A.1 Submanifolds of Euclidean Spaces.md",
-    "2- Source Material/Books/Other books/Russia's Path From Gorbachev to Putin꞉ The Demise of the Soviet System and the New Russia.md",
     "2- Source Material/Books/Other books",
     "2- Source Material/Books/Math Books",
     "Bases",
