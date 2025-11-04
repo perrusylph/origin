@@ -7,3 +7,9 @@ Genre:
   - "[[math]]"
   - "[[statistics]]"
 ---
+# I Probability
+## [[1. Probability (Exercises)]]
+
+
+
+
