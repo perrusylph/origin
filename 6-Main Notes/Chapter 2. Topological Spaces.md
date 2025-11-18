@@ -31,3 +31,11 @@ $$
 $\Leftarrow$ Now let's assume the existence of $r_{1}$ and $r_{2}$ for every $r>0$ and $x \in M$ as in the exercise statement. Now, let's take w.l.o.g (we'll se why) an open set with respect to $d$. Let us call it $U$. Since $U \subset M$ is open with respect to $d$, it means that it contains an open ball (with respecto to $d$) around each of its points. This means that if we take any $x \in U$, there is $r>0$ such that $B_{r}^{(d)}(x) \subset U$. Now, using our assumption, we can find $r_{1}>0$ such that $B_{r_{1}}^{(d')}(x) \subseteq B_{r}^{(d)}(x) \subset U$. Since $x$ was arbitrary, this means that $U$ contains an open ball (with respect to $d'$) around each of its points. This proves that $U$ is also open with respect to $d'$. 
 In a similar fashion, we can prove that an open set with respect to $d'$ will also be open with respect to $d$.
 $\blacksquare$
+
+(b) Let $(M,d)$ be a metric space, let $c$ be a positive real number, and define a new metric $d'$ on $M$ by $d'(x,y) = c\cdot(x,y)$. Prove that $d$ and $d'$ generate the same topology on $M$.
+### Proof
+Let's take $x \in M$ and $r>0$ and try to find suitable $r_{1}$ and $r_{2}$. Let $r_{1} = cr$. Then, take $y \in {B_{r_{1}}^{(d')}}(x)$. This means that $d'(x,y) < cr$, which implies that $c\cdot d(x,y) <cr$ which means that $d(x,y) <r$. Thus $B_{r_{1}}^{(d')}(x) \subseteq B_{r}^{(d)}(x)$.
+Similarly, if we let $r_{2}=\frac{r}{c}$, and take $y \in B_{r_{2}}^{(d)}(x)$, we will have $d(x,y)< \frac{r}{c}$ which will imply that $d'(x,y) <r$. This means that $B_{r_{2}}^{(d)}(x) \subseteq B_{r}^{(d')}(x)$. Since we know because of (a) that this is equivalent to $d$ and $d'$ generating the same topology on $M$, we are done.
+$\blacksquare$
+
+(c) 
