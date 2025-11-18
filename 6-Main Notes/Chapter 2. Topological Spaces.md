@@ -38,4 +38,38 @@ Let's take $x \in M$ and $r>0$ and try to find suitable $r_{1}$ and $r_{2}$. Let
 Similarly, if we let $r_{2}=\frac{r}{c}$, and take $y \in B_{r_{2}}^{(d)}(x)$, we will have $d(x,y)< \frac{r}{c}$ which will imply that $d'(x,y) <r$. This means that $B_{r_{2}}^{(d)}(x) \subseteq B_{r}^{(d')}(x)$. Since we know because of (a) that this is equivalent to $d$ and $d'$ generating the same topology on $M$, we are done.
 $\blacksquare$
 
-(c) 
+(c) Define a metric $d'$ on $\mathbb{R}^{n}$ by $d'(x,y) = \text{max}\{ |x_{1}-y_{1}|,\dots,|x_{n}-y_{n}| \}$. Show that the Euclidean metric and $d'$ generate the same topology on $\mathbb{R}^{n}$. (Hint: see Exercise B.1.)
+### Proof 
+Exercise B.1. says this: Show that the following inequalities hold for any $x = (x_{1},\dots,x_{n}) \in \mathbb{R}^{n}:$$$
+\text{max}\{ |x_{1}|,\dots,|x_{n}| \} \leq |x| \leq \sqrt{ n } \cdot\text{max} \{ |x_{1}|,\dots,|x_{n}| \}.
+$$
+Using it, we can say that given $x,y \in M$ it will happen that:
+$$
+d'(x,y) \leq d(x,y) \leq \sqrt{ n } \cdot d'(x,y)
+$$
+And so, if we take $x \in M$ and $r > 0$, we see that $$
+B_{r}^{(d)}(x) \subseteq B_{r}^{(d')}(x)
+$$
+and that $$
+B_{\frac{r}{\sqrt{ n }}}^{(d')}(x) \subseteq B_{r}^{(d)}(x)
+$$
+Using (a) we have our result.
+$\blacksquare$
+
+(d) Let $X$ be any set, and let $d$ be the discrete metric on $X$ (see example B.3(c)). Show that $d$ generates the discrete topology.
+### Proof
+Since $d$ is the discrete metric, we know $d(x,y) = 1$ if $x$ and $y$ are different, and $d(x,y) = 0$
+if they are equal. Taking $x \in X$ and $0<r\leq 1$. Then $B_{r}^{(d)}(x)=\{ x \}$, so $\{ x \}$ is an open set. If $A \subseteq X$, then $A = \bigcup_{x \in A} \{ x \}$ is a union of open sets and therefore is open, so every subset of $X$ is open, and $X$ has the discrete topology.
+$\blacksquare$
+
+(e) Show that the discrete metric and the Euclidean metric generate the same topology on the set $\mathbb{Z}$ of integers.
+### Proof
+Let's say $d$ is the Euclidean metric and $d'$ is the discrete metric. Use (a) with $r_{1} = \frac{1}{2} = r_{2}$. This is because $B_{\frac{1}{2}}^{(d)}(x) = \{ x \} = B_{\frac{1}{2}}^{(d')}(x)$. This is because all integers have a Euclidean distance of at least 1 to another integer, and also because $\frac{1}{2}<1$ so the discrete ball is the singleton of the center. Thus, given any $r>0$ we have that $$
+B_{\frac{1}{2}}^{(d)} = \{ x \}\subseteq B_{r}^{(d')}(x)
+$$
+and
+$$
+B_{\frac{1}{2}}^{(d')}(x) = \{ x \} \subseteq B_{r}^{(d)}(x)
+$$
+$\blacksquare$
+
