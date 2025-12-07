@@ -71,6 +71,11 @@ views:
       - Year
       - Genre
       - Read?
+    columnSize:
+      file.name: 610
+      note.author: 168
+      note.Editor(s): 78
+      note.Genre: 246
   - type: table
     name: Articles and Pieces
     filters:

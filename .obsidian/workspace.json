@@ -25,14 +25,13 @@
             "id": "c858557933fbd1a8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "6-Main Notes/Chapter 2. Topological Spaces.md",
-                "mode": "source",
-                "source": false
+                "file": "Bases/Books and texts.base",
+                "viewName": "Math Books"
               },
-              "icon": "lucide-file",
-              "title": "Chapter 2. Topological Spaces"
+              "icon": "lucide-table",
+              "title": "Books and texts"
             }
           },
           {
@@ -47,7 +46,8 @@
               "title": "Release Notes 1.10.3"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,38 +208,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a7db457a6fac956c",
+  "active": "c858557933fbd1a8",
   "lastOpenFiles": [
-    "6-Main Notes/Chapter 2. Topological Spaces.md",
-    "6-Main Notes/1. Probability (Exercises).md",
-    "2- Source Material/Books/Math Books/All of Statistics.md",
-    "6-Main Notes/Exercises.md",
-    "6-Main Notes/1.3 Probability.md",
+    "2- Source Material/Books/Math Books/Analysis of Operators.md",
+    "3- Tags/math.md",
     "Bases/Books and texts.base",
-    "2- Source Material/Books/Math Books/Introduction to Topological Manifolds.md",
-    "6-Main Notes/Chapter 1. Introduction.md",
-    "2- Source Material/Books/Other books/Against the Day.md",
+    "2- Source Material/Books/Math Books/Scattering Theory.md",
+    "2- Source Material/Books/Math Books/Fourier Analysis, Self-Adjointness.md",
+    "2- Source Material/Books/Math Books/Functional Analysis.md",
+    "2- Source Material/Books/Math Books/Foliations and the Geometry of 3-Manifolds.md",
+    "2- Source Material/Books/Math Books/Foliations II.md",
+    "2- Source Material/Books/Math Books/Foliations I.md",
+    "2- Source Material/Books/Math Books/Geometric Theory of Foliations.md",
+    "2- Source Material/Books/Math Books/Discrete and Computational Geometry.md",
+    "2- Source Material/Books/Math Books/Geometrisation of 3-Manifolds.md",
+    "2- Source Material/Articles and Pieces/The Mezzanine.md",
+    "2- Source Material/Articles and Pieces/The Unreal Life of Oscar Zariski.md",
+    "2- Source Material/Articles and Pieces/Outlander.md",
+    "2- Source Material/Articles and Pieces/Letters꞉ Summer 1926.md",
+    "2- Source Material/Articles and Pieces/La canción de nosotros.md",
+    "2- Source Material/Articles and Pieces/You Are the Führer's Unrequited Love.md",
+    "2- Source Material/Articles and Pieces/Las tres mitades de Ino Moxo y otros brujos de la amazonía.md",
+    "2- Source Material/Articles and Pieces/Soviet Workers and the Collapse of Perestroika꞉ The Soviet Labour Process and Gorbachev's Reforms, 1985-1991.md",
+    "2- Source Material/Articles and Pieces/Breve historia del cine mexicano꞉ primer siglo, 1897-1997.md",
+    "2- Source Material/Articles and Pieces/Barons꞉ Money, Power, and the Corruption of America's Food Industry.md",
+    "2- Source Material/Articles and Pieces/Summertime.md",
+    "2- Source Material/Articles and Pieces/Youth.md",
+    "2- Source Material/Articles and Pieces/Boyhood.md",
+    "2- Source Material/Articles and Pieces/Memories of the Future.md",
+    "2- Source Material/Articles and Pieces/Deadeye Dick.md",
     "6-Main Notes/Untitled.base",
     "6-Main Notes/Untitled 1.base",
-    "6-Main Notes/Diagonalizable operators.md",
-    "2- Source Material/Books/Math Books/Distributions and Operators.md",
-    "2- Source Material/Mathematics Home.md",
-    "6-Main Notes/Initialize a new repo.md",
     "Untitled",
-    "2- Source Material/Books/Other books/The New Life.md",
-    "2- Source Material/Books/Other books/Fresh, Green Life.md",
-    "2- Source Material/Books/Math Books/MCMC from Scratch꞉ A Practical Introduction to Markov Chain Monte Carlo.md",
-    "2- Source Material/Articles and Pieces/Herculine.md",
-    "2- Source Material/Books/Other books/Fellow Creatures꞉ Our Obligations to the Other Animals.md",
-    "2- Source Material/Authors/Mateiu I. Caragiale.md",
-    "2- Source Material/Books/Other books/Rakes of the Old Court.md",
-    "2- Source Material/Books/Other books/The Radetzky March.md",
-    "2- Source Material/Books/Other books/Memoirs of an Anti-Semite.md",
-    "2- Source Material/Books/Other books/Playing Indian.md",
-    "2- Source Material/Authors/José Eduardo Agualusa.md",
-    "2- Source Material/Books/Other books/A General Theory of Oblivion.md",
-    "2- Source Material/Books/Math Books/Introduction to Riemannian Manifolds.md",
-    "2- Source Material/Books/Math Books/Introduction to Smooth Manifolds.md",
     "2- Source Material/Books/Other books",
     "2- Source Material/Books/Math Books",
     "Bases",
