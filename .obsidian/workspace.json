@@ -28,7 +28,7 @@
               "type": "bases",
               "state": {
                 "file": "Bases/Books and texts.base",
-                "viewName": "Math Books"
+                "viewName": "All texts"
               },
               "icon": "lucide-table",
               "title": "Books and texts"
@@ -210,6 +210,7 @@
   },
   "active": "c858557933fbd1a8",
   "lastOpenFiles": [
+    "2- Source Material/Articles and Pieces/History and Value.md",
     "2- Source Material/Books/Math Books/Analysis of Operators.md",
     "3- Tags/math.md",
     "Bases/Books and texts.base",
@@ -236,7 +237,6 @@
     "2- Source Material/Articles and Pieces/Youth.md",
     "2- Source Material/Articles and Pieces/Boyhood.md",
     "2- Source Material/Articles and Pieces/Memories of the Future.md",
-    "2- Source Material/Articles and Pieces/Deadeye Dick.md",
     "6-Main Notes/Untitled.base",
     "6-Main Notes/Untitled 1.base",
     "Untitled",
