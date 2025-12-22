@@ -15,3 +15,7 @@ From Preface (p.12)
 > "The Indian," observed Morgan, unknowingly echoing the sentiments proclaimed by the Tammany societies seventy years earlier, "is also a Republican and this is more truly a fact than may at first appear." If the rebels had made Indians crucial political figures, Morgan's followers argued that inspiration for the elusive American literature might also be found in Indianness, waiting to be recovered and revealed to the world
 
 p. 79
+
+> The result was a confusing interplay between notions of individual and culture (although this was not the term Morgan used). Morgan and his friends made a subtle, unspoken change: Indian people (in the form of individuals) were not necessarily physically vanishing, but their traditional culture was. Because it was that culture that made them really Indian, Morgan could believe that the actual Iroquois really had disappeared. The people living at Tonawanda and Buffalo Creek were in fact something different.
+
+p. 91
