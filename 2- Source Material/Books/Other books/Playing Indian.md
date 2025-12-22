@@ -11,3 +11,7 @@ Read?: false
 >Every generation seems both to inherit and to produce its own distinct ways of playing Indian, creating a long and unbroken chain of American performance, from instances of colonial misrule and fraternalism to contemporary sports mascotry, hipster headdresses, fashion faux pas, and unapologetic Indian Halloween costumes.
 
 From Preface (p.12)
+
+> "The Indian," observed Morgan, unknowingly echoing the sentiments proclaimed by the Tammany societies seventy years earlier, "is also a Republican and this is more truly a fact than may at first appear." If the rebels had made Indians crucial political figures, Morgan's followers argued that inspiration for the elusive American literature might also be found in Indianness, waiting to be recovered and revealed to the world
+
+p. 79

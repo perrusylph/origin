@@ -25,13 +25,14 @@
             "id": "c858557933fbd1a8",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Bases/Books and texts.base",
-                "viewName": "All texts"
+                "file": "2- Source Material/Books/Other books/Playing Indian.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Books and texts"
+              "icon": "lucide-file",
+              "title": "Playing Indian"
             }
           },
           {
@@ -59,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,12 +221,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b8a61aee962eca8",
+  "active": "c858557933fbd1a8",
   "lastOpenFiles": [
+    "Bases/Books and texts.base",
     "2- Source Material/Articles and Pieces/History and Value.md",
     "2- Source Material/Books/Math Books/Analysis of Operators.md",
     "3- Tags/math.md",
-    "Bases/Books and texts.base",
     "2- Source Material/Books/Math Books/Scattering Theory.md",
     "2- Source Material/Books/Math Books/Fourier Analysis, Self-Adjointness.md",
     "2- Source Material/Books/Math Books/Functional Analysis.md",
@@ -248,7 +249,6 @@
     "2- Source Material/Articles and Pieces/Summertime.md",
     "2- Source Material/Articles and Pieces/Youth.md",
     "2- Source Material/Articles and Pieces/Boyhood.md",
-    "2- Source Material/Articles and Pieces/Memories of the Future.md",
     "6-Main Notes/Untitled.base",
     "6-Main Notes/Untitled 1.base",
     "Untitled",
