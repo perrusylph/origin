@@ -35,6 +35,18 @@
             }
           },
           {
+            "id": "4b8a61aee962eca8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
+          },
+          {
             "id": "01c07c750b3daae1",
             "type": "leaf",
             "state": {
@@ -47,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -208,7 +220,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c858557933fbd1a8",
+  "active": "4b8a61aee962eca8",
   "lastOpenFiles": [
     "2- Source Material/Articles and Pieces/History and Value.md",
     "2- Source Material/Books/Math Books/Analysis of Operators.md",
