@@ -25,14 +25,13 @@
             "id": "c858557933fbd1a8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "2- Source Material/Books/Other books/Playing Indian.md",
-                "mode": "source",
-                "source": false
+                "file": "Bases/Books and texts.base",
+                "viewName": "To-Read"
               },
-              "icon": "lucide-file",
-              "title": "Playing Indian"
+              "icon": "lucide-table",
+              "title": "Books and texts"
             }
           },
           {
@@ -223,6 +222,7 @@
   },
   "active": "c858557933fbd1a8",
   "lastOpenFiles": [
+    "2- Source Material/Books/Other books/Playing Indian.md",
     "Bases/Books and texts.base",
     "2- Source Material/Articles and Pieces/History and Value.md",
     "2- Source Material/Books/Math Books/Analysis of Operators.md",
