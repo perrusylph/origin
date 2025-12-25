@@ -24,3 +24,6 @@ p. 91
 
 p. 102
 
+>  Seton and the Gulicks made sure, in fact, that their contacts with real Indians-publicized as a necessary part of their legitimation-took place outside the aegis of scouting, Woodcraft, and Camp Fire. Bringing real Indians directly into Woodcraft activities would have undermined the founders' authority as mediators who knew-and who could transmit-hard-to-get authentic Indian culture.
+
+p.121

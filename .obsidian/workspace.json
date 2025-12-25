@@ -25,13 +25,14 @@
             "id": "c858557933fbd1a8",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Bases/Books and texts.base",
-                "viewName": "To-Read"
+                "file": "2- Source Material/Books/Other books/Playing Indian.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Books and texts"
+              "icon": "lucide-file",
+              "title": "Playing Indian"
             }
           },
           {
@@ -222,8 +223,8 @@
   },
   "active": "c858557933fbd1a8",
   "lastOpenFiles": [
-    "2- Source Material/Books/Other books/Playing Indian.md",
     "Bases/Books and texts.base",
+    "2- Source Material/Books/Other books/Playing Indian.md",
     "2- Source Material/Articles and Pieces/History and Value.md",
     "2- Source Material/Books/Math Books/Analysis of Operators.md",
     "3- Tags/math.md",
@@ -248,7 +249,6 @@
     "2- Source Material/Articles and Pieces/Barons꞉ Money, Power, and the Corruption of America's Food Industry.md",
     "2- Source Material/Articles and Pieces/Summertime.md",
     "2- Source Material/Articles and Pieces/Youth.md",
-    "2- Source Material/Articles and Pieces/Boyhood.md",
     "6-Main Notes/Untitled.base",
     "6-Main Notes/Untitled 1.base",
     "Untitled",
